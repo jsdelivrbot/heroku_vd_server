@@ -1,0 +1,9 @@
+{
+  "name": "Instant Game Backend Sample",
+  "description": "A sample backend solution for Instant Games, done by Aleksei Leschenko",
+  "repository": "https://git.heroku.com/thawing-shelf-75043.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku", "fbinstant"],
+  "image": "heroku/nodejs"
+} 
+
